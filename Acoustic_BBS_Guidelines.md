@@ -1,5 +1,19 @@
 # Acoustic survey
 
+### Contents
+
+- [Why use acoustic survey methods?](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#why-use-acoustic-survey-methods)
+- [When to use acoustic survey methods](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#when-to-use-acoustic-survey-methods)
+- [Integrating acoustic and standard survey methods](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#integrating-acoustic-and-standard-survey-methods)
+- [How to use acoustic recording methods](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#how-to-use-acoustic-recording-methods)
+- [1. Survey effort and timing](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#1-survey-effort-and-timing)
+- [2. Recorder placement](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#2-recorder-placement)
+- [3. Recording equipment](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#3-recording-equipment)
+- [4. Audio settings](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#4-audio-settings)
+- [5. Metadata recording](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#5-metadata-recording)
+- [Storing and analysing acoustic data](https://github.com/carlosabrahams/AcousticBBS/blob/main/Acoustic_BBS_Guidelines.md#storing-and-analysing-acoustic-data)
+
+
 ## Why use acoustic survey methods?
 
 Birds create species-specific songs and calls that can be readily recorded using automated or handheld recording systems.
@@ -29,9 +43,13 @@ These circumstances should also be used to determine the location and duration o
 
 ## Integrating acoustic and standard survey methods
 
-Using acoustic methods alongside standard surveys can provide the best of both worlds. It will provide both spatial information, and data on non-vocalizing species, from the walkover surveys, combined with the longer-term recordings from a number of days and nights of recording.
+Using acoustic methods alongside standard surveys can provide the best of both worlds. It will provide both spatial information, and data on non-vocalizing species, from the walkover surveys, combined with the longer-term recordings from a number of days and nights of recording. 
+
+Ref to [Bird Survey Guidelines](https://birdsurveyguidelines.org/)
 
 ## How to use acoustic recording methods
+
+This section of the guidelines makes evidence-based recommendations for aspects of study design, including survey effort considerations, how to deploy recording equipment and how to deal with the recorded audio data.
 
 ### 1. Survey effort and timing
 
@@ -135,9 +153,11 @@ For good quality audio data, a non- compressed digital file format (i.e. .WAV ra
 
 Add studies
 
-**5. Metadata recording**
+### 5. Metadata recording
 
-> Recommendatuon: At the start of each deployment, record the date/time, surveyor name, sampling location and recorder/microphone identifiers. Photographs of location and set-up should be taken. Weather conditions during the survey period should also be recorded.
+> Recommendation: 
+>
+> At the start of each deployment, record the date/time, surveyor name, sampling location and recorder/microphone identifiers. Photographs of location and set-up should be taken. Weather conditions during the survey period should also be recorded.
 
 **Rationale**
 
@@ -147,7 +167,7 @@ With each survey deployment, appropriate metadata including location, dates/time
 
 Add studies
 
-# Analysing and storing acoustic data
+# Storing and analysing acoustic data
 
 > Recommendations:
 >
