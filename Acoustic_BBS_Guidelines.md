@@ -55,25 +55,27 @@ Bird detection probability normally varies with time of the day, so recording ti
 
 **Supporting evidence**
 
-@Wimmer2013 found that 120 one-minute recordings, randomly selected from the three hours following sunrise, was the most efficient way to detect the highest number of species from a five-day recording period.
+Franklin et al ([2021](https://doi.org/10.1071/WR20099)) studied bird assemblages in eucalypt forests, and recommended an optimal survey method of five 20-min sampling periods immediately following dawn for 2 days.
 
-@Franklin2021 studied bird assemblages in eucalypt forests, and recommended an optimal survey method of five 20-min sampling periods immediately following dawn for 2 days.
+Metcalf et al ([2021](https://doi.org/10.1002/rse2.227)) found that if a time-sampling approach is being used, then shorter file lengths (i.e. one minute or less) are far better than longer recordings. For example, instead of 4 x 15 minute samples across a three-hour period, then 240 x 15 second samples produces faster species accumulation and greater species richness.
 
-@Metcalf2021 found that if time-sampling approach is being used, then shorter file lengths (i.e. one minute or less) are far better than longer recordings. For example, instead of 4 x 15 minute samples across a three-hour period, then 240 x 15 second samples produces faster species accumulation and greater species richness.
+Wood et al ([2021](https://doi.org/10.1111/2041-210X.13571)) showed from simulations and case studies that a 50% reduction in overall recording duration may only result in a 5%--17% decrease in the detected species richness of the assemblage present. In terms of outcome per unit of effort, there was an increase in performance for 3 days/continuous (12 hr total) and 3 days/every-other 5 min (6 hr) scenarios compared to 7 days/every other 5 min (14 hr) and 7 days/15 min per hour (7hr) scenarios.
 
-@Wood2021 showed from simulations and case studies that a 50% reduction in overall recording duration may only result in a 5%--17% decrease in the detected species richness of the assemblage present. In terms of outcome per unit of effort, there was an increase in performance for 3 days/continuous (12 hr total) and 3 days/every-other 5 min (6 hr) scenarios compared to 7 days/every other 5 min (14 hr) and 7 days/15 min per hour (7hr) scenarios.
+Cook & Hartley ([2018](https://doi.org/10.5751/ACE-01221-130121)) compared a continuous five-minute audio recording with an intermittent sample, using 30 x ten-second samples from a 30 minute period to create a five-minute composite recording. A significantly greater number of species were detected with the latter method.
 
-@Cook2018 compared a continuous five-minute audio recording with an intermittent sample, using 30 x ten-second samples from a 30 minute period to create a five-minute composite recording. A significantly greater number of species were detected with the latter method.
+Wimmer et al ([2013](https://doi.org/10.1890/12-2088.1)) found that 120 one-minute recordings, randomly selected from the three hours following sunrise, was the most efficient way to detect the highest number of species from a five-day recording period.
 
-> Klingbeil and Willig ([2015](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13229#jpe13229-bib-0029)) used recordings distributed throughout the season, alpha richness estimates increased by 35% compared to recordings that were simultaneous with point counts, although gamma diversity remained slightly inferior---probably due to the small, uncorrected recorder detection range compared to unlimited radius point counts.
+> Klingbeil and Willig ([2015](http://dx.doi.org/10.7717/peerj.973)) used recordings distributed throughout the season, alpha richness estimates increased by 35% compared to recordings that were simultaneous with point counts, although gamma diversity remained slightly inferior---probably due to the small, uncorrected recorder detection range compared to unlimited radius point counts.
 >
-> Both Furnas and Callas ([2015](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13229#jpe13229-bib-0020)) and Thompson, Handel, and McNew ([2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13229#jpe13229-bib-0054)) demonstrated how detection probability varies for different species with time of the day, supporting that recording throughout the day will sample the entire bird community more effectively. Similarly,
+> Both Furnas and Callas ([2015](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13229#jpe13229-bib-0020)) and Thompson, Handel, and McNew ([2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13229#jpe13229-bib-0054)) demonstrated how detection probability varies for different species with time of the day, supporting that recording throughout the day will sample the entire bird community more effectively. 
 >
 > La and Nudds ([2016](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13229#jpe13229-bib-0031)) found the most efficient sampling schedule for detecting the entire bird community was when recordings (e.g. 10-miunute samples) were spread throughout the day.
 >
 > Thompson et al. (2017) recommend that having more recordings of shorter duration (1--4 minutes) is more efficient than fewer recordings of 10 minutes duration.
 
-###2. Recorder placement
+
+
+### 2. Recorder placement
 
 > Recommendations:
 >
@@ -91,9 +93,11 @@ When placing recorders in the field, omnidirectional microphones should be used,
 
 **Supporting evidence**
 
-@Perez-Granados2019 simulated the requirements for recorder layout on Dupont's Lark, and found that within a 100ha (= 1km2) survey area and at a density of 1 male/10 ha, four ARUs (= 500m spacing) were sufficient to detect species presence with 90% of confidence (Figure 3).
+Pérez-Granados et al ([2019](10.1016/j.ecolind.2019.105608)) simulated the requirements for recorder layout on Dupont's Lark, and found that within a 100ha (= 1km2) survey area and at a density of 1 male/10 ha, four ARUs (= 500m spacing) were sufficient to detect species presence with 90% of confidence (Figure 3).
 
-@Symes2022 performed a simulation to test trade-offs between recording at more sites, or for longer durations, when total sampling time was the same. Adding locations resulted in more species per unit of analysis effort than adding more days, e.g. species detection saturated at 30 species when sampling in one location and at 41 species when the same sampling duration was spread was across ten sites.
+Symes et al ([2022](https://doi.org/10.1002/ece3.8797)) performed a simulation to test trade-offs between recording at more sites, or for longer durations, when total sampling time was the same. Adding locations resulted in more species per unit of analysis effort than adding more days, e.g. species detection saturated at 30 species when sampling in one location and at 41 species when the same sampling duration was spread was across ten sites.
+
+
 
 ### 3. Recording equipment
 
